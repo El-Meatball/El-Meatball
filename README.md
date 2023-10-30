@@ -1,10 +1,2 @@
-- 👋 Hi, I’m @El-Meatball
-- 👀 I’m interested in Gaming
-- 🌱 I’m currently learning Chemestry, Physics
-- 💞️ I’m looking to collaborate on Gaming
-- 📫 How to reach me Businessaccound18@gmail.com
-
-<!More. ...
-El-Meatball/El-Meatball is a ✨ special ✨ repository because its `google.sites.com` (https://sites.google.com/pgcps.org/nalon-unblock/home) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
----> Changes: . ...
+# school-hacks
+school is awful. It's the worst education way to teach somebody, and the worst thing anybody can use. I'm fed up with being forced to mindlessly learning and it's not enjoyable, or acceptable, for a whole week. This respiritory is a collection of hacks that ensure nobody has to suffer through school ever again. This current version had a Tutor Ai and proxie links, planning on adding more soon but its like 5 am as i'm typing this and i cant be bothered to add something else right now
