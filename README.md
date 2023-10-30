@@ -7,3 +7,7 @@ Download the Bookmarklet by clicking [here]https://brainly.com/tutor-ai?source=Q
 
 Go to "bookmarks", and on the right make sure you see "bookmarks manager" and just click the 3 dots and click "add new bookmarks" and then put the link in your url.
 
+# How to avoid being caught
+press ctrl + tab, on your keybeord when your teacher is coming instead of obviously clicking a tab
+```
+
