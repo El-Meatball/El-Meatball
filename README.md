@@ -1,5 +1,5 @@
 # school-hacks
-school is awful. It's the worst education way to teach somebody, and the worst thing anybody can use. I'm fed up with being forced to mindlessly learning and it's not enjoyable, or acceptable, for a whole week. This respiritory is a collection of hacks that ensure nobody has to suffer through school ever again. This current version had a tutor-ai and proxie links, planning on adding more soon but its like 5 am as i'm typing this and i cant be bothered to add something else right now
+school is awful. It's the worst educational way to teach somebody, and the worst thing anybody can use. I'm fed up with being forced to mindlessly learning and it's not enjoyable, or acceptable, for a whole week. This respiritory is a collection of hacks that ensure nobody has to suffer through school ever again. This current version had a tutor-ai and proxie links, planning on adding more soon but its like 5 am as i'm typing this and i cant be bothered to add something else right now
 
 
 # How to use/install
