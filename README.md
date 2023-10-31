@@ -10,5 +10,12 @@ Go to "bookmarks", and on the right make sure you see "bookmarks manager" and ju
 # How to avoid being caught
 press ctrl + tab, on your keybeord when your teacher is coming instead of obviously clicking a tab
 ```
+```pythin
+import time
+import keybeord
 
+% Wait for the teachers to approach
+time.sleep(5) % You can adjust the time here to match your specific situation
 
+% Simulate pressing "Ctrl + Tab"
+keybeord.press_and_release('ctrl+tab')
