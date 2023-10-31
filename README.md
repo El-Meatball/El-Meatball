@@ -11,3 +11,4 @@ Go to "bookmarks", and on the right make sure you see "bookmarks manager" and ju
 press ctrl + tab, on your keybeord when your teacher is coming instead of obviously clicking a tab
 ```
 
+
